@@ -1,4 +1,4 @@
 # demo-project
 My first project
 
-Author - Manoj Kumar m
+Author - Manoj Kumar M
